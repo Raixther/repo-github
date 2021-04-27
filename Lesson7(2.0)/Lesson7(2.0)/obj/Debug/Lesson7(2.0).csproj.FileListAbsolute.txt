@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Lesson7(2.0)\Lesson7(2.0)\bin\Debug\Lesson7(2.0).exe.config
+C:\Users\User\source\repos\Lesson7(2.0)\Lesson7(2.0)\bin\Debug\Lesson7(2.0).exe
+C:\Users\User\source\repos\Lesson7(2.0)\Lesson7(2.0)\bin\Debug\Lesson7(2.0).pdb
+C:\Users\User\source\repos\Lesson7(2.0)\Lesson7(2.0)\obj\Debug\Lesson7(2.0).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lesson7(2.0)\Lesson7(2.0)\obj\Debug\Lesson7(2.0).exe
+C:\Users\User\source\repos\Lesson7(2.0)\Lesson7(2.0)\obj\Debug\Lesson7(2.0).pdb
