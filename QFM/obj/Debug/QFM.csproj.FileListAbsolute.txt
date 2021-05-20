@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\QFM\bin\Debug\QFM.exe.config
+C:\Users\user\source\repos\QFM\bin\Debug\QFM.exe
+C:\Users\user\source\repos\QFM\bin\Debug\QFM.pdb
+C:\Users\user\source\repos\QFM\obj\Debug\QFM.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\QFM\obj\Debug\QFM.exe
+C:\Users\user\source\repos\QFM\obj\Debug\QFM.pdb
+C:\Users\user\source\repos\QFM\obj\Debug\QFM.csprojAssemblyReference.cache
